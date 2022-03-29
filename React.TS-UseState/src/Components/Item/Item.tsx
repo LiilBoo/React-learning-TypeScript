@@ -1,7 +1,7 @@
 interface Item {
     
-    title: string;
-    txt: string;
+    title?: string;
+    txt?: string;
 }
 
 
